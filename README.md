@@ -1,0 +1,2 @@
+# SplashScreen
+Android animated SplashScreen
